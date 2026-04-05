@@ -76,6 +76,4 @@ https://github.com/vineetposani97/AI-Workflow-GitHub-Setup
 
 Summary: 
 
-This project reflects my ability to learn new tools quickly, troubleshoot issues independently, and build structured workflows.
-
-It serves as a foundation for more advanced projects involving AI, automation, and data-driven systems
+This project reflects my ability to learn new tools quickly, troubleshoot issues independently, and build structured workflows. It serves as a foundation for more advanced projects involving AI, automation, and data-driven systems.
