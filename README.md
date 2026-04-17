@@ -2,8 +2,7 @@ AI Workflow Infrastructure & Version-Controlled Development
 
 Overview:
 
-This project was part of an assignment to practice Git, GitHub, and development workflow basics. It helped me understand the fundamentals of version control, tool integration, and reproducibility. After completing this, I created a more structured and refined version in my AI Workflow Setup repository (which is this one). This project reflects my learning process and progression in building a structured development environment using Git, GitHub, and AI-assisted tools.
-
+This project demonstrates the design of a structured, version-controlled development environment for building and iterating workflows. It focuses on ensuring reproducibility, reliabilty, and scalability through Git-based version control and integrated development tooling. The system reflects a practical approach to managing AI workflow development in real-world scenarios.
 ---
 
   Tools & Technologies:
